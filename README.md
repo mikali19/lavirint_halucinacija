@@ -48,22 +48,38 @@ https://sketchfab.com/3d-models/shaggy-parasol-mushroom-mature-young-7987d229032
 https://sketchfab.com/3d-models/the-sun-0d28aa65eb174d948c2716d73e8fd3bd
  
 Projekat sadrzi:
+
 Oblast A: Framebuffers, Cubemaps
+
 Oblast B: HDR, Bloom, Normal Mapping
+
 Komande na tastaturi:
+
 f1 - otvara ImGUI prizor za podesavanje svetla
+
 f2- Ukljucuje i iskljucuje slobodno kretanje kamere
+
 f3- Ukljucuje i iskljucuje bloom efekat
+
 F - Ukljucuje i iskljucuje flashlight
+
 C – Leci halucinacije
+
 ESCAPE - Iskljucuje aplikaciju
+
 W, A, S, D - Kretanje po sceni
 
+
 ImGui sadrzi:
+
 -podesavanja pravca direkcionog svetla
+
 -podesavanja komponenti direkcionog svetla (ambient, diffuse, specular)
+
 -podesavanja faktora point lighta (constant, linear, quadratic)
+
 -podesavanja boje svetala (RGB)
+
 
 Kada se “pojede” pecurka pocinju halucinacije :D
 
