@@ -1,4 +1,6 @@
 Lavirint:
+Link youtube: https://youtu.be/mf5cp14T8Hw
+
 Projekat iz računarske grafike, korišćen skelet sa `https://github.com/matf-racunarska-grafika/project_base`.
 Lavirint sa raznim objektima koji se kriju na svakom cosku i pecurkom koja stvara halucinacije kada je pojedete.
 
